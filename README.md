@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/jairomg1">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26size%3D28%26pause%3D1000%26color%3D19A2F9%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHola%2B%25F0%259F%2591%258B%252C%2Bsoy%2BJhon%2BJairo%2B(SK1LL)%3BDesarrollador%2BFull-Stack%3BApasionado%2Bpor%2Bla%2Btecnolog%25C3%25ADa%3BY%2Bun%2Bgamer%2Bde%2Bcoraz%25C3%25B3n%2B%25F0%259F%258E%25AE" alt="Typing SVG" />
-</a>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D19A2F9%26height%3D180%26section%3Dheader%26text%3DJhon%2520Jairo%2520(SK1LL)%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35" alt="Encabezado del Perfil de GitHub"/>
 </div>
 
 <br>
@@ -32,7 +30,7 @@ Soy un desarrollador Full-Stack de Bolivia 🇧🇴, con una gran pasión por cr
 </td>
 <td valign="top" width="40%">
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de Programación" width="100%">
 </div>
 </td>
 </tr>
@@ -64,20 +62,20 @@ Soy un desarrollador Full-Stack de Bolivia 🇧🇴, con una gran pasión por cr
 
 <h2 align="center">Mis Estadísticas en GitHub 📊</h2>
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Djairomg1%26label%3DVistas%2Bdel%2BPerfil%26color%3D0e75b6%26style%3Dflat-square" alt="Contador de Vistas" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Djairomg1%26label%3DVistas%2Bdel%2BPerfil%26color%3D0e75b6%26style%3Dflat-square" alt="Contador de Vistas del Perfil" />
 </p>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djairomg1%26show_icons%3Dtrue%26theme%3Ddracula%26locale%3Des" alt="Estadísticas de GitHub de Jairo" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djairomg1%26layout%3Dcompact%26theme%3Ddracula%26locale%3Des" alt="Lenguajes más usados de Jairo" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djairomg1%26show_icons%3Dtrue%26theme%3Ddracula%26locale%3Des%26hide_border%3Dtrue" alt="Estadísticas de GitHub de Jairo" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djairomg1%26layout%3Dcompact%26theme%3Ddracula%26locale%3Des%26hide_border%3Dtrue" alt="Lenguajes más usados por Jairo" />
 </div>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djairomg1%26theme%3Ddracula%26locale%3Des" alt="Racha de Contribuciones de Jairo" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djairomg1%26theme%3Ddracula%26locale%3Des%26hide_border%3Dtrue" alt="Racha de Contribuciones de Jairo" />
 </div>
 
 <br>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Djairomg1%26theme%3Ddracula%26column%3D7" alt="Trofeos de GitHub de Jairo" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Djairomg1%26theme%3Ddracula%26column%3D7%26no-frame%3Dtrue%26no-bg%3Dtrue" alt="Trofeos de GitHub de Jairo" />
 </a>
 </p>
