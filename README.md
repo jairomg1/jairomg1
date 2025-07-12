@@ -32,7 +32,7 @@ Soy un desarrollador Full-Stack de Bolivia 🇧🇴, con una gran pasión por cr
 </td>
 <td valign="top" width="40%">
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW00Y2U1a2dvZ2Q0aHdoY2w4eDFjZ2E4M3p2c3Z6eXNocjNzaW16eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
 </div>
 </td>
 </tr>
