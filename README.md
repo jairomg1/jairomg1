@@ -1,84 +1,119 @@
-<!-- Banner animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=19A2F9&height=200&section=header&text=Jhon%20Jairo%20(SK1LL)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20FullStack%20con%20pasión%20por%20la%20tecnología%20y%20los%20videojuegos!&descSize=24&descAlign=50" alt="Banner" />
-</p>
+```markdown
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jairo%20MG&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Bolivia&descAlignY=58&descSize=18" width="100%" />
+
+# ¡Hola! Soy Jairo 👋
+
+### Desarrollador Full-Stack de Bolivia 🇧🇴
+
+<a href="https://github.com/jairomg1">
+  <img src="https://komarev.com/ghpvc/?username=jairomg1&style=for-the-badge&color=2563eb&label=VISITAS" alt="Visitas al perfil" />
+</a>
+
+</div>
 
 ---
 
-<!-- Sobre mí - con quote -->
-<details open>
-<summary><strong>👨‍💻 Sobre Mí</strong></summary>
-<br>
-<blockquote>
-Desarrollador Full-Stack de <b>Bolivia 🇧🇴</b> creando soluciones innovadoras y compartiendo el amor por los videojuegos en Steam.<br>
-<em>“La tecnología es el arte de transformar ideas en realidad.”</em>
-</blockquote>
-<ul>
-  <li>🔭 Actualmente: <b>App web para el turismo boliviano</b></li>
-  <li>🌱 Mejorando en <b>React.js</b> y <b>PostgreSQL</b></li>
-  <li>📫 <b>jairomg99@gmail.com</b></li>
-  <li>⚡ <b>Dato curioso:</b> ¡En mi <a href="https://discord.gg/Z3Vup8fZpV" target="_blank">Discord</a> comparto las mejores ofertas de Steam!</li>
-</ul>
-</details>
+## Sobre mí
+
+Soy un desarrollador Full-Stack apasionado por crear soluciones digitales útiles, aprender nuevas tecnologías y convertir ideas en proyectos reales.
+
+- 🔭 Actualmente desarrollando una aplicación web enfocada en el turismo boliviano.
+- 🌱 Mejorando mis conocimientos en React.js y PostgreSQL.
+- 🎮 Apasionado por los videojuegos y la comunidad de Steam.
+- 💡 Me interesa crear aplicaciones modernas, funcionales y fáciles de usar.
+- 📍 Bolivia 🇧🇴
+
+> “La tecnología es el arte de transformar ideas en realidad.”
 
 ---
 
-<!-- Redes sociales con badges animados -->
-<p align="center">
-  <a href="https://twitter.com/tgcn_sk1ll" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/tgcn_sk1ll" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://fb.com/jairo.meridagarcia.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.youtube.com/c/@sk1ll819" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://discord.gg/Z3Vup8fZpV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://codepen.io/@tgcn-sk1ll" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
-</p>
+## Tecnologías y herramientas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,postgres,git,github,vscode&perline=8" />
+
+</div>
 
 ---
 
-<!-- Imagen animada de programación -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de Programación" width="400"/>
-</p>
+## Actualmente estoy trabajando en
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌎 Turismo boliviano
+
+Una aplicación web pensada para descubrir, organizar y promocionar destinos turísticos de Bolivia.
+
+- Interfaces modernas
+- Información turística organizada
+- Desarrollo con React
+- Gestión de datos con PostgreSQL
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🚀 En constante aprendizaje
+
+- Arquitectura de aplicaciones web
+- Desarrollo Frontend
+- Bases de datos relacionales
+- Experiencia de usuario
+- Buenas prácticas de desarrollo
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- Skills dinámicos -->
-<h2 align="center">🛠️ Lenguajes y Herramientas</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,tailwind,bootstrap,postgres,mysql,mongodb,aws,php,dotnet,cpp,unity&theme=light" />
-</p>
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack%20Destacado&lineCount=2&theme=dracula&align=center&borderRadius=20&width=400&animation=fadeIn&langs=js,react,postgres,tailwind,aws,php" alt="Stack Destacado" />
-</p>
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jairomg1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1&bg_color=0f172a" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairomg1&layout=compact&langs_count=8&hide_border=true&title_color=60a5fa&text_color=cbd5e1&bg_color=0f172a" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jairomg1&theme=tokyonight&hide_border=true&background=0F172A&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+
+</div>
 
 ---
 
-<!-- Estadísticas GitHub -->
-<h2 align="center">📊 Mis Estadísticas en GitHub</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jairomg1&label=Vistas+del+Perfil&color=19A2F9&style=for-the-badge" alt="Contador de Vistas" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jairomg1&theme=dracula" alt="Resumen" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jairomg1&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairomg1&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes Más Usados" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairomg1&theme=dracula&hide_border=true" alt="Racha de Contribuciones" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairomg1&theme=dracula&column=7&no-frame=true&no-bg=true" alt="Trofeos"/></a>
-</p>
+## Conectemos
+
+<div align="center">
+
+<a href="mailto:jairomg99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jairomg99%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/jairomg1">
+  <img src="https://img.shields.io/badge/GitHub-jairomg1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
+
+💬 Siempre estoy abierto a aprender, colaborar y conversar sobre tecnología.
+
+</div>
 
 ---
 
-<!-- Contacto y Footer -->
-<h2 align="center">📣 ¡Conectemos!</h2>
-<p align="center">
-  <a href="mailto:jairomg99@gmail.com"><img src="https://img.shields.io/badge/Email-19A2F9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jhon-jairo-merida-garcia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=19A2F9&center=true&vCenter=true&width=600&lines=%C2%A1Gracias+por+visitar+mi+perfil%21" alt="Gracias por visitar" />
-</p>
+### Gracias por visitar mi perfil 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%" />
+
+</div>
+```
